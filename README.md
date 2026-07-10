@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Asim Khan
 **A passionate Web Developer || From Aptech Pakistan**
 
-Email Me 👉 ✉️ **ak3952009@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **codewithasim.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Train Booking Management System
 - 🌱 **I’m currently learning:** Backend Development 
@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **ak3952009@gmail.com** For Collaboration/Project or Anythi
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/asim-khan-8119483b4/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok\&logoColor=white)](https://www.tiktok.com/@asimkhan_dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify\&logoColor=00C7B7)](https://vacode.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=netlify\&logoColor=00C7B7)](https://orvacode.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:codewithasim.dev@gmail.com)
 
 
