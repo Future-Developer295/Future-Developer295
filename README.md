@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Asim Khan
-**A passionate Web Developer || Aptech From Pakistan**
+**A passionate Web Developer || From Aptech Pakistan**
 
 Email Me 👉 ✉️ **ak3952009@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
